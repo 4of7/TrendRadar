@@ -6,6 +6,8 @@ DeepSeek
 
 华为
 鸿蒙
+苹果
+小米
 HarmonyOS
 任正非
 
